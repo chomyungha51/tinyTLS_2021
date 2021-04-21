@@ -19,7 +19,7 @@ int test() {
 
   if(check_integrity() == -1){
     sum += 1;
-    printf("INT PASS!\n");
+    printf("PASS!\n");
   }
 
   printf(
